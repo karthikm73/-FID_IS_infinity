@@ -127,7 +127,6 @@ def calculate_IS_infinity_path(path, batch_size=50, min_fake=50, num_points=15):
 
     return IS_infinity
 
-# ... (rest of the original code remains the same)
 
 ################# Functions for calculating and saving dataset inception statistics ##################
 class im_dataset(Dataset):
